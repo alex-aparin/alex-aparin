@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi everyone 👋
 
-<!--
-**alex-aparin/alex-aparin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer from Russia, open source enthusiast in free time.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary>
+  More details
+</summary>
+
+## Quick overview
+
+#### GitHub stats 
+<a href="https://github.com/alex-aparin/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=alex-aparin&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a>  
+
+</details>
